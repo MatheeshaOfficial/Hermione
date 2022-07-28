@@ -1,3 +1,4 @@
+
 <h1 align="center"><b>🌹Hermione🔥 </b></h1>
 
 <h4 align="center">A Powerful, Smart And Simple Group Manager <br> ... Written with PTB , Pyrogram and Telethon...</h4>
@@ -108,5 +109,3 @@ $ python3 -m Hermione
 
 #### • Matheesha Lestrang   »»  <a href="https://github.com/MatheeshaOfficial" alt="MatheeshaOfficial"> <img src="https://img.shields.io/badge/MatheeshaOfficial-90302f?logo=github" /></a> (OWNER)
 #### • Damantha Jasinghe    »»  <a href="https://github.com/Damantha126" alt="Damantha126"> <img src="https://img.shields.io/badge/Damantha126-30302f?logo=github" /></a> (Co-Owner)
-
-
