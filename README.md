@@ -55,10 +55,6 @@
 # 🏃‍♂️ Easy Deploy 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MatheeshaOfficial/HermioneV5)
 
-[Generate String Session](https://replit.com/@SpEcHiDe/GenerateStringSession)  << Select telethon
-
-<a href="https://www.youtube.com/watch?v=yar61k_hEHQ"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
-
 ## 🖇 Generating Telethon String Session 🍂
 
 <p>
