@@ -752,6 +752,10 @@ def hermione_about_callback(update, context):
             reply_markup=InlineKeyboardMarkup(
                 [
                  [
+                    InlineKeyboardButton(text="Hermione", url="t.me/hermioneslbot"),
+                 
+                 ],
+                 [
                     InlineKeyboardButton(text="ᴅᴀɪꜱʏ", url="t.me/DaisyXbot"),
                     InlineKeyboardButton(text="ʜᴇxʏ", url="t.me/HiTechRockets"),
                  ],
@@ -772,15 +776,15 @@ def hermione_about_callback(update, context):
            *Contributors of Hermione 5.0*
 
            *✪ Owners 👨‍💻*
-           • [Matheesha Illeperuma](t.me/rodolphus_lestrang) » [GitHub](https://github.com/PercyOfficial)  (Owner)
+           • [Matheesha Illeperuma](t.me/rodolphus_lestrang) » [GitHub](https://github.com/MatheeshaOfficial)  (Owner)
            
            *✪ Devs 🔥*
            • Damantha Jasinghe » [GitHub](https://github.com/Damantha126) (Dev)
-           • Sadew » [GitHub](http://github.com/sadew451)  (Dev) 
+           • Supunma » [GitHub](http://github.com/szsupunma)  (Dev) 
            
            *✪ Special Credits ❤️*
            • Inuka Asith (specially ❤)
-           • Prabasha (specially ❤)
+           • Prabasha
            • ImJanindu
            • Devil
            • Miss-Valentina 
