@@ -53,7 +53,7 @@
 
 
 # 🏃‍♂️ Easy Deploy 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MatheeshaOfficial/HermioneV5)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MatheeshaOfficial/Hermione)
 
 ## 🖇 Generating Telethon String Session 🍂
 
