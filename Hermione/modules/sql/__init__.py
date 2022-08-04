@@ -4,8 +4,8 @@ from sqlalchemy.orm import scoped_session, sessionmaker
 from Hermione.conf import get_int_key, get_str_key
 from Hermione import LOGGER
 
-DB_URI = get_str_key("SQLALCHEMY_DATABASE_URI")
-DB_URI_HEROKU = get_str_key("DATABASE_URL")
+DB_URI = get_str_key("DATABASE_URL")
+DB_URI_HEROKU = get_str_key("SQLALCHEMY_DATABASE_URI") 
 
 if DB_URI == None:
     DB_URI = DB_URI_HEROKU
