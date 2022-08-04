@@ -10,7 +10,7 @@ aioredis==1.3.0 # Redis memery storage fom aiogram
 pymongo
 motor
 odmantic # MongoDB ORM
-sqlalchemy==1.3.20 # For old modules
+sqlalchemy # For old modules
 dnspython # needed to connect to cloud MongoDB instances
 
 # Optional deps to make bot faster
