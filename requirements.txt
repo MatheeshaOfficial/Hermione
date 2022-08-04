@@ -2,6 +2,7 @@
 telethon
 pyrogram==1.4.12
 aiogram == 2.13
+python-telegram-bot
 
 # DBs
 redis
@@ -129,7 +130,6 @@ faker
 youtube_dl
 beautifulsoup4
 requests
-python-telegram-bot==12.8
 feedparser
 hachoir
 pynewtonmath
