@@ -2,7 +2,7 @@
 telethon
 pyrogram==1.4.12
 aiogram == 2.13
-python-telegram-bot
+python-telegram-bot==12.8
 
 # DBs
 redis
